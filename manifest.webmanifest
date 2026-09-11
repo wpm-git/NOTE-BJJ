@@ -1,0 +1,17 @@
+{
+  "name": "BJJ Note Pessoal",
+  "short_name": "BJJ Note",
+  "description": "Diário pessoal de treinos de jiu-jítsu",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#080a0d",
+  "theme_color": "#080a0d",
+  "icons": [
+    {
+      "src": "bjj-icon.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
