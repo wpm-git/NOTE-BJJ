@@ -1,4 +1,4 @@
-const CACHE = 'bjj-note-v2';
+const CACHE = 'bjj-note-v3';
 const FILES = ['./', './index.html', './bjj-icon.png', './manifest.webmanifest'];
 
 self.addEventListener('install', event => {
